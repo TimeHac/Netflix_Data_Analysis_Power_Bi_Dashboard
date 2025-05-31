@@ -43,6 +43,7 @@ The dataset was originally taken from a public source like [Kaggle Netflix Datas
 
 Here is a preview of the Netflix Power BI Dashboard:
 
-![Netflix Power BI Dashboard](./images/netflix_dashboard.png)
+![Screenshot 2025-05-31 110011](https://github.com/user-attachments/assets/ec7e11c2-0394-41aa-aa88-b949d3b1799c)
+
 
 
